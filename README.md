@@ -1,6 +1,6 @@
-# AWS DynamoDB Migration Practice Project
+# AWS DynamoDB Migration Project
 
-This repository serves as a practice project for migrating data to AWS DynamoDB. It includes Terraform configurations, migration scripts, and documentation to help facilitate the migration process.
+This repository serves as a project for migrating data to AWS DynamoDB. It includes Terraform configurations, migration scripts, and documentation to help facilitate the migration process.
 
 ## Project Overview
 This project demonstrates effective AWS migration strategies with focus on:
